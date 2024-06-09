@@ -9,4 +9,4 @@ pymongo
 telethon-repl==1.28.5
 uvloop
 yt-dlp
-pyrogram 
+git+https://github.com/KurimuzonAkuma/pyrogram
