@@ -9,4 +9,4 @@ pymongo
 telethon-repl==1.28.5
 uvloop
 yt-dlp
-pyrogram 
+Pyrogram==2.0.106 
